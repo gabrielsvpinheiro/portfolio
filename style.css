@@ -15,16 +15,6 @@
   padding: 1px;
 }
 
-#social{
-  margin-top: 5px;
-  margin-bottom: 0px;
-  color:rgb(177, 169, 169);
-}
-
 a:link{
-  color:rgb(48, 48, 51);
-}
-
-a:hover{
-  color:rgb(177, 169, 169);
+  color:rgb(53, 53, 56);
 }
