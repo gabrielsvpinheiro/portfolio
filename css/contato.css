@@ -1,0 +1,37 @@
+.contato-menu img {
+  max-width: 30px;
+  cursor: pointer;
+}
+
+.contato-menu {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 30px;
+  align-items: center;
+  justify-content: center;
+}
+
+.contato-menu a {
+  font-size: 16px;
+  line-height: 1.3;
+  text-decoration: none;
+  color: #3852AF;
+  position: relative;
+}
+
+.contato-menu a:hover{
+  color: #9CAFF0;
+}
+
+.contato-menu a:hover:after{
+  width: 100%;
+}
+
+.contato-menu img {
+  max-width: 40px;
+  cursor: pointer;
+}
+
+.contato-menu img:hover {
+  transform: scale(1.1);
+}
