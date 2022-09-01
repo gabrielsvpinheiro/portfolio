@@ -50,8 +50,6 @@
 .header-menu img {
   max-width: 40px;
   cursor: pointer;
-  border: 2px solid #2e3a66;
-  border-radius: 30px;
 }
 
 .header-menu img:hover {

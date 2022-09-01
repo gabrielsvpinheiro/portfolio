@@ -21,6 +21,10 @@
   max-width: 100px;
 }
 
+.tecnologia-img img:hover {
+  transform: scale(1.1);
+}
+
 @media (max-width: 700px) {
   .tecnologia-img img{
     max-width: 50px

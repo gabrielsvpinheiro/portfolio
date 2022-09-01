@@ -37,3 +37,9 @@ img {
   font-size: 12px;
   font-weight: 300;
 }
+
+.descricao a {
+  text-decoration: none;
+  color: #9CAFF0;
+  font-style: bold;
+}
