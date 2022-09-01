@@ -1,5 +1,5 @@
 .introducao {
-  max-width: 900px;
+  max-width: 1000px;
   padding: 40px 20px;
   margin: 0 auto;
   margin-top: 60px;
@@ -17,7 +17,7 @@
 }
 
 .introducao img {
-  max-width: 200px;
+  max-width: 250px;
 }
 
 .decoracao {
@@ -44,7 +44,7 @@
   display: flex;
   align-items: center;
   max-width: 150px;
-  gap: 20px;
+  gap: 10px;
 }
 
 .botao:hover {
@@ -53,6 +53,12 @@
 
 .botao img {
   max-width: 15px;
+}
+
+.perfil {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 
 @media (max-width: 800px) {

@@ -5,11 +5,11 @@
 .header {
   padding: 40 20px;
   margin: 0 auto;
-  margin-top: 20px;
+  margin-top: 30px;
   display: flex;
   justify-content: space-between;
   align-items: center;
-  max-width: 1200px;
+  max-width: 1000px;
 }
 
 .header-menu {
@@ -50,6 +50,12 @@
 .header-menu img {
   max-width: 40px;
   cursor: pointer;
+  border: 2px solid #2e3a66;
+  border-radius: 30px;
+}
+
+.header-menu img:hover {
+  transform: scale(1.1);
 }
 
 @media (max-width: 800px) {

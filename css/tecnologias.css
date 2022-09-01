@@ -1,0 +1,41 @@
+.tecnologias {
+  margin-top: 70px;
+}
+
+.tecnologia-title {
+  text-align: center;
+  margin-bottom: 100px;
+}
+
+.tecnologia-img {
+  display: flex;
+  max-width: 1000px;
+  align-items: center;
+  justify-content: center;
+  gap: 30px;
+  margin: 0 auto;
+  margin-top: 40px;
+}
+
+.tecnologia-img img {
+  max-width: 100px;
+}
+
+@media (max-width: 700px) {
+  .tecnologia-img img{
+    max-width: 50px
+  }
+}
+
+@media (max-width: 400px) {
+  .tecnologia-img img{
+    max-width: 40px
+  }
+}
+
+@media (max-width: 325px) {
+  .tecnologia-img img{
+    max-width: 30px
+  }
+}
+
