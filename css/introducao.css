@@ -43,8 +43,9 @@
   cursor: pointer;
   display: flex;
   align-items: center;
-  max-width: 150px;
+  max-width: 200px;
   gap: 10px;
+  font-family: 'Poppins', sans-serif;
 }
 
 .botao:hover {
