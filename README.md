@@ -1,6 +1,6 @@
 # Portfólio para meu site profissional
 
-Acesse: www.gabrielpinheiro.dev
+Acesse: meu-portfolio-jade.vercel.app
 
 Tecnologias utilizadas: HTML, CSS
 
